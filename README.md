@@ -5,6 +5,7 @@ A simple command-line application built with Node.js for managing user data. Thi
 ## Prerequisites
 
 - **Node.js**: Ensure that Node.js is installed on your machine. [Download Node.js here](https://nodejs.org/).
+- **Git**
 
 ## Setup Instructions
 
